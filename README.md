@@ -2,7 +2,7 @@
 
 Welcome to my GitHub page!  My name is Roukeyatou and hesitate to ask me how to pronounce it!
 
-🌱 I've always had an affinity for things art related and fell in love with the design aspects of front end design.  I am currently learning various coding languages, but am learning: HTML, CSS, JavaScript, React, Bootstrap, to name a few.
+- 🌱 I've always had an affinity for things art related and fell in love with the design aspects of front end design.  I am currently learning various coding languages, but am learning: HTML, CSS, JavaScript, React, Bootstrap, to name a few.
 
 - 🔭 I’m currently working on learning creating a page using an API, that consists of HTML, Bootstrap, JavaScript, and JQuery.  Also working to create a webpage using React as well as using an API to test out a live scenario.
 
